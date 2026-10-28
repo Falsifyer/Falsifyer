@@ -28,7 +28,7 @@ decision.
 
 ### /// SELECTED WORK
 
-- **CTI writing** — open-source, confidence-graded actor profiles and structured assessments: [Volt Typhoon](https://falsifyer.github.io/volt-typhoon-actor-profile/) · [Scattered Spider](https://falsifyer.github.io/scattered-spider-actor-profile/) · [VOLTZITE vs Volt Typhoon — ACH](https://falsifyer.github.io/ach-voltzite-volt-typhoon/) · [the method behind the tooling](https://falsifyer.github.io/from-source-to-a-defensible-judgement/).
+- **CTI writing** — open-source, confidence-graded actor profiles and structured assessments: [the method behind the tooling](https://falsifyer.github.io/from-source-to-a-defensible-judgement/).
 - **Method & requirements** — how the analysis is graded, reviewed and corrected ([method](https://falsifyer.github.io/method/)) and the standing requirements it answers ([requirements](https://falsifyer.github.io/requirements/)).
 - **CTI knowledge corpus** — a working corpus on the intelligence cycle, tradecraft standards and sharing formats *(currently private)*.
 
